@@ -73,5 +73,15 @@ Like this 👇
 
 ![image alt](https://github.com/CryptoGurujiOG/Nexus-CLI-Node-Run-Guide/blob/ee5f6e959ef7c23eb86feff3f79dab432c506180/Screenshot%202.png)
 
+![image alt](https://github.com/CryptoGurujiOG/Nexus-CLI-Node-Run-Guide/blob/049620f22791c78c802443b465100c6bb4b2996d/Screenshot%203.png)
+
+- Run Node with your node ID
+
+```
+source ~/.bashrc
+
+nexus-network start --node-id YOUR NODE ID
+```
+- Replace `YOUR NODE ID` with your Node ID
 
 
