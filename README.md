@@ -28,7 +28,7 @@ Like this 👇
 
 - Install WSL using this 👉 [GUIDE](https://github.com/CryptoGurujiOG/Install-Ubuntu-on-Windows-using-WSL)
 
-1. Install Dependecies
+- Install Dependecies
 
 ```
 sudo apt update & sudo apt upgrade -y
@@ -49,7 +49,7 @@ source $HOME/.cargo/env
 rustup target add riscv32i-unknown-none-elf
 ```
 
-2. Run Prover
+## Run Prover
 
 - Start a screen to keep it running in the background
 
