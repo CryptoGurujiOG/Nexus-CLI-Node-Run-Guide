@@ -75,7 +75,7 @@ Like this 👇
 
 ![image alt](https://github.com/CryptoGurujiOG/Nexus-CLI-Node-Run-Guide/blob/049620f22791c78c802443b465100c6bb4b2996d/Screenshot%203.png)
 
-- Run Node with your node ID
+- Run this final command with your Node ID
 
 ```
 source ~/.bashrc
