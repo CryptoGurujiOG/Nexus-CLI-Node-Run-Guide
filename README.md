@@ -54,23 +54,24 @@ rustup target add riscv32i-unknown-none-elf
 
 ## Run Prover
 
-- Start a screen to keep it running in the background
+1. Start a screen to keep it running in the background
 
 ```
 screen -S nexus
 ```
 
-- Install Nexus CLI node
-- You can update Nexus node using the same command
+2. Install Nexus CLI node
+3. You can update Nexus node using the same command
 
 ```
 curl https://cli.nexus.xyz/ | sh
 ```
 
-- Create Node ID
-- Visit: https://app.nexus.xyz/nodes
-- Click on Add CLI node
-- Copy your Node ID
+## Create Node ID
+
+1. Visit: https://app.nexus.xyz/nodes
+2. Click on Add CLI node
+3. Copy your Node ID
 
 Like this 👇
 
