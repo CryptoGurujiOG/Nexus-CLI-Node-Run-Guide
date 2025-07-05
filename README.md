@@ -28,6 +28,7 @@ Like this 👇
 
 - Install WSL using this 👉 [GUIDE](https://github.com/CryptoGurujiOG/Install-Ubuntu-on-Windows-using-WSL)
 
+- Open Ubuntu on your Pc
 - Install Dependecies
 
 ```
