@@ -71,7 +71,7 @@ curl https://cli.nexus.xyz/ | sh
 
 Like this 👇
 
-![image alt](https://github.com/CryptoGurujiOG/Nexus-CLI-Node-Run-Guide/blob/c1ab6f23e907ae7da2dbb4f8da994344ea2da3b6/Screenshot%201.png)
+![image alt](https://github.com/CryptoGurujiOG/Nexus-CLI-Node-Run-Guide/blob/ee5f6e959ef7c23eb86feff3f79dab432c506180/Screenshot%202.png)
 
 
 
