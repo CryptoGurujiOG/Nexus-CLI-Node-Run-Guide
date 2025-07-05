@@ -1,6 +1,6 @@
 # Nexus-CLI-Node-Run-Guide
 
-Earn testnet Nex Points by contributing your computing power to the Nexus network. You can convert your Nex Points into testnet $NEX, which will determine your share of the mainnet $NEX token airdrop.
+Earn Nex Points by contributing your computing power to the Nexus network. You can convert your Nex Points into testnet $NEX, which will determine your share of the mainnet $NEX token airdrop.
 
 ---
 
