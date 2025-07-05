@@ -59,7 +59,7 @@ screen -S nexus
 ```
 
 - Install Nexus CLI node
-- You can update your node using same command
+- You can update Nexus node using the same command
 
 ```
 curl https://cli.nexus.xyz/ | sh
