@@ -24,5 +24,11 @@ Like this 👇
 
 ![image alt](https://github.com/CryptoGurujiOG/Nexus-CLI-Node-Run-Guide/blob/c1ab6f23e907ae7da2dbb4f8da994344ea2da3b6/Screenshot%201.png)
 
+# Nexus CLI Node Steps:
+
+- Install WSL using this 👉 [GUIDE](https://github.com/CryptoGurujiOG/Install-Ubuntu-on-Windows-using-WSL)
+
+
+
 
 
