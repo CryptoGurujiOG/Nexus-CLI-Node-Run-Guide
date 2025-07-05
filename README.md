@@ -17,7 +17,7 @@ Earn Nex Points by contributing your computing power to the Nexus network. You c
 2. Click on Sign up to earn points
 3. Create a new account or Log in existing one
 
-- Run Nexus Browser Node
+## Run Nexus Browser Node
 
 1. Disable Battery Saver mode
 2. Start the Nexus Browser Node to earn points
