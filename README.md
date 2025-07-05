@@ -28,6 +28,43 @@ Like this 👇
 
 - Install WSL using this 👉 [GUIDE](https://github.com/CryptoGurujiOG/Install-Ubuntu-on-Windows-using-WSL)
 
+1. Install Dependecies
+
+```
+sudo apt update & sudo apt upgrade -y
+sudo apt install screen curl build-essential pkg-config libssl-dev git-all -y
+sudo apt install protobuf-compiler -y
+sudo apt update
+```
+
+```
+curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+```
+
+```
+source $HOME/.cargo/env
+```
+
+```
+rustup target add riscv32i-unknown-none-elf
+```
+
+2. Run Prover
+
+- Start a screen to keep it running in the background
+
+```
+screen -S nexus
+```
+
+- Install Nexus CLI node
+- You can update your node using same command
+
+```
+curl https://cli.nexus.xyz/ | sh
+```
+
+- Create Node ID
 
 
 
