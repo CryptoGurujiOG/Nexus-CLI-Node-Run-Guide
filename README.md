@@ -65,7 +65,13 @@ curl https://cli.nexus.xyz/ | sh
 ```
 
 - Create Node ID
+- Visit: https://app.nexus.xyz/nodes
+- Click on Add CLI node
+- Copy your Node ID
 
+Like this 👇
+
+![image alt](https://github.com/CryptoGurujiOG/Nexus-CLI-Node-Run-Guide/blob/c1ab6f23e907ae7da2dbb4f8da994344ea2da3b6/Screenshot%201.png)
 
 
 
