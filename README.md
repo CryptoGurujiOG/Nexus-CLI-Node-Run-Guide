@@ -13,12 +13,14 @@ Earn Nex Points by contributing your computing power to the Nexus network. You c
 
 ## Step 1:
 
-- Visit: https://app.nexus.xyz/
-- Click on Sign up to earn points
-- Create a new account or Log in existing one
+1. Visit: https://app.nexus.xyz/
+2. Click on Sign up to earn points
+3. Create a new account or Log in existing one
 
-- Disable Battery Saver mode
-- Start Nexus Browser Node to earn points
+- Run Nexus Browser Node
+
+1. Disable Battery Saver mode
+2. Start the Nexus Browser Node to earn points
 
 Like this 👇
 
