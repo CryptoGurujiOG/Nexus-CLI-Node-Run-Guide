@@ -87,7 +87,7 @@ nexus-network start --node-id YOUR NODE ID
 
 ---
 
-## You can puchase Nexus CLI nodes on Nodes Garden
+## You can purchase Nexus CLI nodes on Nodes Garden
 
 Follow this 👉 [GUIDE](https://x.com/CryptoGurujiOG/status/1937486680098791932)
 
