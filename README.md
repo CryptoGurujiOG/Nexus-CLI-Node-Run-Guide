@@ -11,7 +11,7 @@ Earn Nex Points by contributing your computing power to the Nexus network. You c
 
 ---
 
-## Step 1:
+## Steps:
 
 1. Visit: https://app.nexus.xyz/
 2. Click on Sign up to earn points
