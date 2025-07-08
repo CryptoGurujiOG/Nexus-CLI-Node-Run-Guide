@@ -28,7 +28,7 @@ Like this 👇
 
 ## Nexus CLI Node Steps:
 
-- Install WSL using this 👉 [GUIDE](https://github.com/CryptoGurujiOG/Install-Ubuntu-on-Windows-using-WSL)
+- Install WSL using this 👉 [Guide](https://github.com/CryptoGurujiOG/Install-Ubuntu-on-Windows-using-WSL)
 
 1. Open Ubuntu on your Pc
 2. Install Dependecies
