@@ -81,9 +81,9 @@ Like this 👇
 ```
 source ~/.bashrc
 
-nexus-network start --node-id YOUR NODE ID
+nexus-network start --node-id YOUR_NODE_ID
 ```
-- Replace `YOUR NODE ID` with your Node ID
+- Replace `YOUR_NODE_ID` with your Node ID
 
 ---
 
