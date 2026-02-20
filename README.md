@@ -4,7 +4,7 @@ Earn Nex Points by contributing your computing power to the Nexus network. You c
 
 ---
 
-## Can i use multiple devices
+## Can I use multiple devices
 
 - You can use multiple devices like Pc, Laptop, Mobile, Tablets etc
 - You can connect all devices with a single Nexus account
@@ -34,10 +34,9 @@ Like this 👇
 2. Install Dependecies
 
 ```
-sudo apt update & sudo apt upgrade -y
-sudo apt install screen curl build-essential pkg-config libssl-dev git-all -y
+sudo apt update && sudo apt upgrade -y
+sudo apt install screen curl build-essential pkg-config libssl-dev git -y
 sudo apt install protobuf-compiler -y
-sudo apt update
 ```
 
 ```
