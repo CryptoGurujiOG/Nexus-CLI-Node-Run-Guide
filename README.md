@@ -85,6 +85,19 @@ nexus-network start --node-id YOUR_NODE_ID
 ```
 - Replace `YOUR_NODE_ID` with your Node ID
 
+Detach screen safely, it will keep Node Running in the Background:
+
+Detach Screen:
+
+```
+CTRL + A + D
+```
+
+Reattach Screen:
+
+```
+screen -r nesa
+```
 ---
 
 ## You can purchase Nexus CLI nodes on Nodes Garden
