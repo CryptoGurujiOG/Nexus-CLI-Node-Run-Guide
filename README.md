@@ -85,7 +85,7 @@ nexus-network start --node-id YOUR_NODE_ID
 ```
 - Replace `YOUR_NODE_ID` with your Node ID
 
-Detach screen safely, it will keep Node Running in the Background:
+8. Detach screen safely, it will keep Node Running in the Background:
 
 Detach Screen:
 
