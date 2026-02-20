@@ -31,7 +31,7 @@ Like this 👇
 - Install WSL using this 👉 [Guide](https://github.com/CryptoGurujiOG/Install-Ubuntu-on-Windows-using-WSL)
 
 1. Open Ubuntu on your Pc
-2. Install Dependecies
+2. Install Dependencies
 
 ```
 sudo apt update && sudo apt upgrade -y
